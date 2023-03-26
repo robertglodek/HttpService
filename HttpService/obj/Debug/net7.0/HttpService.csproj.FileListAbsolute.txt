@@ -1,0 +1,15 @@
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.csproj.AssemblyReference.cache
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.AssemblyInfoInputs.cache
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.AssemblyInfo.cs
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.csproj.CoreCompileInputs.cache
+C:\Users\youtu\source\repos\HttpService\HttpService\bin\Debug\net7.0\HttpService.exe
+C:\Users\youtu\source\repos\HttpService\HttpService\bin\Debug\net7.0\HttpService.deps.json
+C:\Users\youtu\source\repos\HttpService\HttpService\bin\Debug\net7.0\HttpService.runtimeconfig.json
+C:\Users\youtu\source\repos\HttpService\HttpService\bin\Debug\net7.0\HttpService.dll
+C:\Users\youtu\source\repos\HttpService\HttpService\bin\Debug\net7.0\HttpService.pdb
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.dll
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\refint\HttpService.dll
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.pdb
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\HttpService.genruntimeconfig.cache
+C:\Users\youtu\source\repos\HttpService\HttpService\obj\Debug\net7.0\ref\HttpService.dll
